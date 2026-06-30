@@ -1,0 +1,11 @@
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\bin\Debug\net8.0\Ecommerce.Shared.deps.json
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\bin\Debug\net8.0\Ecommerce.Shared.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\bin\Debug\net8.0\Ecommerce.Shared.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.AssemblyInfoInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.AssemblyInfo.cs
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.csproj.CoreCompileInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\refint\Ecommerce.Shared.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\Ecommerce.Shared.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Shared\obj\Debug\net8.0\ref\Ecommerce.Shared.dll

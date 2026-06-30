@@ -1,0 +1,17 @@
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.Presentation.deps.json
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.Presentation.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.Presentation.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.Shared.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\bin\Debug\net8.0\Ecommerce.Shared.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.csproj.AssemblyReference.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.AssemblyInfoInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.AssemblyInfo.cs
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.csproj.CoreCompileInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerc.B4E0E412.Up2Date
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\refint\Ecommerce.Presentation.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\ref\Ecommerce.Presentation.dll

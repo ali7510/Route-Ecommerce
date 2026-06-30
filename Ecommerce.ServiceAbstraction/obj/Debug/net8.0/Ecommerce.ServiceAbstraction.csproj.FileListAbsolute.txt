@@ -1,0 +1,15 @@
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.deps.json
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\bin\Debug\net8.0\Ecommerce.Shared.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\bin\Debug\net8.0\Ecommerce.Shared.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.csproj.AssemblyReference.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.AssemblyInfoInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.AssemblyInfo.cs
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.csproj.CoreCompileInputs.cache
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerc.80C49E61.Up2Date
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\refint\Ecommerce.ServiceAbstraction.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.pdb
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\ref\Ecommerce.ServiceAbstraction.dll
