@@ -17,3 +17,4 @@ D:\.NET PROJECTS\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\refint\Ecommerce.Service.dll
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.pdb
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\ref\Ecommerce.Service.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.sourcelink.json

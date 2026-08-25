@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\CasualSneakers.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\CasualSneakers.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\ClassicBlackDressPants.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ClassicBlackDressPants.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\ClassicWhiteTShirt.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\ClassicWhiteTShirt.jpeg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\CottonHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\CottonHoodie.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\DenimJacket.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\DenimJacket.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\FormalBlazer.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\FormalBlazer.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\KnittedSweater.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\KnittedSweater.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\MensLeatherJacket.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\MensLeatherJacket.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\MensPoloShirt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\MensPoloShirt.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\SlimFitJeans.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\SlimFitJeans.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\SummerFloralDress.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\SummerFloralDress.jpg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\WomensTrenchCoat.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\WomensTrenchCoat.jpeg"
+    },
+    {
+      "Id": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\WoolScarf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\WoolScarf.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceWeb.props",
+      "PackagePath": "build\\EcommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWeb.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWeb.props",
+      "PackagePath": "buildTransitive\\EcommerceWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

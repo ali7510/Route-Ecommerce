@@ -29,9 +29,19 @@ namespace Ecommerce.Persistence.Repositories
             return await _dbContext.Set<T>().ToListAsync();
         }
 
+        public async Task<IEnumerable<T>?> GetAllAsync(ISpecifications<T, TKey> specifications)
+        {
+            return await SpecificationEvaluator.CreateQuery(_dbContext.Set<T>().AsQueryable(), specifications).ToListAsync();
+        }
+
         public async Task<T?> GetByIdAsync(TKey id)
         {
             return await _dbContext.Set<T>().FindAsync(id);
+        }
+
+        public async Task<T?> GetByIdAsync(TKey id, ISpecifications<T, TKey> specifications)
+        {
+            return await SpecificationEvaluator.CreateQuery(_dbContext.Set<T>().AsQueryable(), specifications).FirstOrDefaultAsync(e => e.Id!.Equals(id));
         }
 
         public void Remove(T entity)

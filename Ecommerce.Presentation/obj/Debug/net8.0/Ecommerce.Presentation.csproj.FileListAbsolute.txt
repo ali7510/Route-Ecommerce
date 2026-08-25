@@ -15,3 +15,4 @@ D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Pre
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\refint\Ecommerce.Presentation.dll
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.pdb
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\ref\Ecommerce.Presentation.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Presentation\obj\Debug\net8.0\Ecommerce.Presentation.sourcelink.json

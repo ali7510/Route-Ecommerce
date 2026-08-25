@@ -3,6 +3,7 @@ using Ecommerce.Domain.Contracts;
 using Ecommerce.Persistence.Data.DataSeed;
 using Ecommerce.Persistence.Data.DBContext;
 using Ecommerce.Persistence.Repositories;
+using Ecommerce.Service;
 using Ecommerce.Service.MappingProfiles;
 using Ecommerce.Service.ProductServices;
 using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
@@ -33,7 +34,9 @@ namespace EcommerceWeb
             builder.Services.AddScoped<IDataInitializer, DataInitializer>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IProductService, ProductService>();
-            builder.Services.AddAutoMapper(x=>x.AddProfile<ProductProfile>());
+            //builder.Services.AddTransient<ProductPictureUrlResolver>();
+            //builder.Services.AddAutoMapper(x=>x.AddProfile<ProductProfile>());
+            builder.Services.AddAutoMapper(typeof(ServiceAssemblyReference).Assembly);
             var app = builder.Build();
 
             #region Data Seeding
@@ -49,6 +52,7 @@ namespace EcommerceWeb
             }
 
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
 
             app.UseAuthorization();
 

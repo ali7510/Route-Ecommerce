@@ -1,0 +1,13 @@
+wwwroot\images\products\CasualSneakers.jpg
+wwwroot\images\products\ClassicBlackDressPants.jpg
+wwwroot\images\products\ClassicWhiteTShirt.jpeg
+wwwroot\images\products\CottonHoodie.jpg
+wwwroot\images\products\DenimJacket.jpg
+wwwroot\images\products\FormalBlazer.jpg
+wwwroot\images\products\KnittedSweater.jpg
+wwwroot\images\products\MensLeatherJacket.jpg
+wwwroot\images\products\MensPoloShirt.jpg
+wwwroot\images\products\SlimFitJeans.jpg
+wwwroot\images\products\SummerFloralDress.jpg
+wwwroot\images\products\WomensTrenchCoat.jpeg
+wwwroot\images\products\WoolScarf.jpg

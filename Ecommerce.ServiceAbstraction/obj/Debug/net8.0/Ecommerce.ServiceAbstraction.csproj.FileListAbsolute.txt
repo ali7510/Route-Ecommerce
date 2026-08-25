@@ -13,3 +13,4 @@ D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommer
 D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\refint\Ecommerce.ServiceAbstraction.dll
 D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.pdb
 D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\ref\Ecommerce.ServiceAbstraction.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.ServiceAbstraction\obj\Debug\net8.0\Ecommerce.ServiceAbstraction.sourcelink.json

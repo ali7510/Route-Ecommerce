@@ -19,3 +19,4 @@ D:\.NET PROJECTS\Ecommerce\Ecommerce.Persistence\obj\Debug\net8.0\Ecommerce.Pers
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Persistence\obj\Debug\net8.0\refint\Ecommerce.Persistence.dll
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Persistence\obj\Debug\net8.0\Ecommerce.Persistence.pdb
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Persistence\obj\Debug\net8.0\ref\Ecommerce.Persistence.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Persistence\obj\Debug\net8.0\Ecommerce.Persistence.sourcelink.json

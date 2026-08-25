@@ -1,5 +1,1072 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "images/products/CasualSneakers.gc82zcq9m9.jpg",
+      "AssetFile": "images/products/CasualSneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wClEUiZi2SUvu9JQsw31LmiceDsL5ITXA3SDf9+zckA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:50:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gc82zcq9m9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wClEUiZi2SUvu9JQsw31LmiceDsL5ITXA3SDf9+zckA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/CasualSneakers.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/CasualSneakers.jpg",
+      "AssetFile": "images/products/CasualSneakers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wClEUiZi2SUvu9JQsw31LmiceDsL5ITXA3SDf9+zckA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:50:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wClEUiZi2SUvu9JQsw31LmiceDsL5ITXA3SDf9+zckA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ClassicBlackDressPants.3peb9whv1s.jpg",
+      "AssetFile": "images/products/ClassicBlackDressPants.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxjOIl54NXV4XQNtW0bSRh0sFKxAMZjrAlC//rZNQlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:51:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3peb9whv1s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxjOIl54NXV4XQNtW0bSRh0sFKxAMZjrAlC//rZNQlQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/ClassicBlackDressPants.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ClassicBlackDressPants.jpg",
+      "AssetFile": "images/products/ClassicBlackDressPants.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxjOIl54NXV4XQNtW0bSRh0sFKxAMZjrAlC//rZNQlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:51:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxjOIl54NXV4XQNtW0bSRh0sFKxAMZjrAlC//rZNQlQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ClassicWhiteTShirt.jpeg",
+      "AssetFile": "images/products/ClassicWhiteTShirt.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwUC4XugFxOaMts2U37AUB2yALRTf2MrXquVGCXx75c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:50:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwUC4XugFxOaMts2U37AUB2yALRTf2MrXquVGCXx75c="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/ClassicWhiteTShirt.xbuwd7z7sg.jpeg",
+      "AssetFile": "images/products/ClassicWhiteTShirt.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cwUC4XugFxOaMts2U37AUB2yALRTf2MrXquVGCXx75c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:50:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xbuwd7z7sg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cwUC4XugFxOaMts2U37AUB2yALRTf2MrXquVGCXx75c="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/ClassicWhiteTShirt.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/CottonHoodie.9la22h6mr0.jpg",
+      "AssetFile": "images/products/CottonHoodie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41c38yfkhjnsCycjv9KjYSd2/LjLSMRlbcZd0Yvfeys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:52:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9la22h6mr0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-41c38yfkhjnsCycjv9KjYSd2/LjLSMRlbcZd0Yvfeys="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/CottonHoodie.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/CottonHoodie.jpg",
+      "AssetFile": "images/products/CottonHoodie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41c38yfkhjnsCycjv9KjYSd2/LjLSMRlbcZd0Yvfeys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:52:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-41c38yfkhjnsCycjv9KjYSd2/LjLSMRlbcZd0Yvfeys="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/DenimJacket.3bhxf4kb3e.jpg",
+      "AssetFile": "images/products/DenimJacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISuYkqOuMxSGWgQraynAo+V4MeJsGx6ZA+4r3tQY+6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:54:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bhxf4kb3e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISuYkqOuMxSGWgQraynAo+V4MeJsGx6ZA+4r3tQY+6M="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/DenimJacket.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/DenimJacket.jpg",
+      "AssetFile": "images/products/DenimJacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33603"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ISuYkqOuMxSGWgQraynAo+V4MeJsGx6ZA+4r3tQY+6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:54:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ISuYkqOuMxSGWgQraynAo+V4MeJsGx6ZA+4r3tQY+6M="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/FormalBlazer.ho4cip5joe.jpg",
+      "AssetFile": "images/products/FormalBlazer.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/d1IC30H3uhV+kKWR6uLxGTXYfB9p6PmZUlCUv7EPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:55:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho4cip5joe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/d1IC30H3uhV+kKWR6uLxGTXYfB9p6PmZUlCUv7EPk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/FormalBlazer.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/FormalBlazer.jpg",
+      "AssetFile": "images/products/FormalBlazer.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/d1IC30H3uhV+kKWR6uLxGTXYfB9p6PmZUlCUv7EPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 13:55:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/d1IC30H3uhV+kKWR6uLxGTXYfB9p6PmZUlCUv7EPk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/KnittedSweater.assq2qbj4l.jpg",
+      "AssetFile": "images/products/KnittedSweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpF4PMiiOwrMCs9ACUUDQnE6TO6zUD3/8NvfCh3AS2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:00:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "assq2qbj4l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpF4PMiiOwrMCs9ACUUDQnE6TO6zUD3/8NvfCh3AS2k="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/KnittedSweater.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/KnittedSweater.jpg",
+      "AssetFile": "images/products/KnittedSweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpF4PMiiOwrMCs9ACUUDQnE6TO6zUD3/8NvfCh3AS2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:00:30 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpF4PMiiOwrMCs9ACUUDQnE6TO6zUD3/8NvfCh3AS2k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/MensLeatherJacket.jpg",
+      "AssetFile": "images/products/MensLeatherJacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jrG5BuGXRW6XIEORkTp749TyNAz38FRsW6iDGFiLWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:03:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jrG5BuGXRW6XIEORkTp749TyNAz38FRsW6iDGFiLWc="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/MensLeatherJacket.mw4h67pr47.jpg",
+      "AssetFile": "images/products/MensLeatherJacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jrG5BuGXRW6XIEORkTp749TyNAz38FRsW6iDGFiLWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:03:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mw4h67pr47"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jrG5BuGXRW6XIEORkTp749TyNAz38FRsW6iDGFiLWc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/MensLeatherJacket.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/MensPoloShirt.jpg",
+      "AssetFile": "images/products/MensPoloShirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfVTC1rUUmElbCENmzMdokwjRJWflDukx1g8ABct+kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:44:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hfVTC1rUUmElbCENmzMdokwjRJWflDukx1g8ABct+kY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/MensPoloShirt.lot1d7c1wi.jpg",
+      "AssetFile": "images/products/MensPoloShirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hfVTC1rUUmElbCENmzMdokwjRJWflDukx1g8ABct+kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:44:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lot1d7c1wi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hfVTC1rUUmElbCENmzMdokwjRJWflDukx1g8ABct+kY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/MensPoloShirt.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/SlimFitJeans.g76t3gqrrh.jpg",
+      "AssetFile": "images/products/SlimFitJeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEdT77sN7pQdBmbjlL0WDkI36Z42dofkSHCeBWOOO7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:04:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g76t3gqrrh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEdT77sN7pQdBmbjlL0WDkI36Z42dofkSHCeBWOOO7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/SlimFitJeans.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/SlimFitJeans.jpg",
+      "AssetFile": "images/products/SlimFitJeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rEdT77sN7pQdBmbjlL0WDkI36Z42dofkSHCeBWOOO7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:04:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rEdT77sN7pQdBmbjlL0WDkI36Z42dofkSHCeBWOOO7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/SummerFloralDress.fnjfjvp48x.jpg",
+      "AssetFile": "images/products/SummerFloralDress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xY/GdgwLoKS3m4GRMrGqbuXbchOYMkomSKHezm8YRUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnjfjvp48x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xY/GdgwLoKS3m4GRMrGqbuXbchOYMkomSKHezm8YRUY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/SummerFloralDress.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/SummerFloralDress.jpg",
+      "AssetFile": "images/products/SummerFloralDress.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xY/GdgwLoKS3m4GRMrGqbuXbchOYMkomSKHezm8YRUY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:04:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xY/GdgwLoKS3m4GRMrGqbuXbchOYMkomSKHezm8YRUY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/WomensTrenchCoat.jpeg",
+      "AssetFile": "images/products/WomensTrenchCoat.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ZcmlbDFVVfLmYeeuElBGB9q1MpI1L3a3tWgL6YIhM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:45:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ZcmlbDFVVfLmYeeuElBGB9q1MpI1L3a3tWgL6YIhM0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/WomensTrenchCoat.r0kn3ouule.jpeg",
+      "AssetFile": "images/products/WomensTrenchCoat.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5ZcmlbDFVVfLmYeeuElBGB9q1MpI1L3a3tWgL6YIhM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:45:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r0kn3ouule"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5ZcmlbDFVVfLmYeeuElBGB9q1MpI1L3a3tWgL6YIhM0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/WomensTrenchCoat.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/WoolScarf.jpg",
+      "AssetFile": "images/products/WoolScarf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMSDzlYorJ7XFSW1jKZuTx+PjH1obap0y47QHBz+nk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:05:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMSDzlYorJ7XFSW1jKZuTx+PjH1obap0y47QHBz+nk0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/WoolScarf.wzrm01u6sr.jpg",
+      "AssetFile": "images/products/WoolScarf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMSDzlYorJ7XFSW1jKZuTx+PjH1obap0y47QHBz+nk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 14:05:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wzrm01u6sr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMSDzlYorJ7XFSW1jKZuTx+PjH1obap0y47QHBz+nk0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/WoolScarf.jpg"
+        }
+      ]
+    }
+  ]
 }

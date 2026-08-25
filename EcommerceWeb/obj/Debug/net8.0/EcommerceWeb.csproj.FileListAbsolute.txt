@@ -183,3 +183,5 @@ D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\Ecommerce.Service.pdb
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\Ecommerce.ServiceAbstraction.pdb
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\Ecommerce.Shared.pdb
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\AutoMapper.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\EcommerceWeb.staticwebassets.runtime.json
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\obj\Debug\net8.0\EcommerceWeb.sourcelink.json

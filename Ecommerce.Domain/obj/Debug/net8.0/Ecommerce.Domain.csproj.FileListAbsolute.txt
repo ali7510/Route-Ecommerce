@@ -9,3 +9,4 @@ D:\.NET PROJECTS\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.dl
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\refint\Ecommerce.Domain.dll
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.pdb
 D:\.NET PROJECTS\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\ref\Ecommerce.Domain.dll
+D:\.NET PROJECTS\Ecommerce\Ecommerce.Domain\obj\Debug\net8.0\Ecommerce.Domain.sourcelink.json
