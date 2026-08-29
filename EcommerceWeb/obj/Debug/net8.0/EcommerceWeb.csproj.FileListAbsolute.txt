@@ -185,3 +185,9 @@ D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\Ecommerce.Shared.pdb
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\AutoMapper.dll
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\EcommerceWeb.staticwebassets.runtime.json
 D:\.NET PROJECTS\Ecommerce\EcommerceWeb\obj\Debug\net8.0\EcommerceWeb.sourcelink.json
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\DnsClient.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\SharpCompress.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\Snappier.dll
+D:\.NET PROJECTS\Ecommerce\EcommerceWeb\bin\Debug\net8.0\ZstdSharp.dll
