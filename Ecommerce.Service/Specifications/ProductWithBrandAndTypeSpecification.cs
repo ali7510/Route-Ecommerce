@@ -11,17 +11,17 @@ namespace Ecommerce.Service.Specifications
 {
     public class ProductWithBrandAndTypeSpecification : BaseSpecification<Product, int>
     {
-        public ProductWithBrandAndTypeSpecification() : base()
-        {
-            AddInclude(p=>p.ProductBrand);
-            AddInclude(p => p.ProductType);
-        }
+        //public ProductWithBrandAndTypeSpecification() : base()
+        //{
+        //    AddInclude(p=>p.ProductBrand);
+        //    AddInclude(p => p.ProductType);
+        //}
 
         public ProductWithBrandAndTypeSpecification(ProductQueryParams? productParams) : base()
         {
             AddInclude(p => p.ProductBrand);
             AddInclude(p => p.ProductType);
-            if (productParams != null)
+            if (productParams is not null)
             {
                 if (productParams.BrandId.HasValue)
                 {

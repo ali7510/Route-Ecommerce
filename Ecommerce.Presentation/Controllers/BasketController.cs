@@ -1,4 +1,5 @@
-﻿using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
+﻿using Ecommerce.Presentation.Attributes;
+using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
 using Ecommerce.Shared.DTOs.BasketDtos;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -21,6 +22,7 @@ namespace Ecommerce.Presentation.Controllers
         }
 
         [HttpGet]
+        //[RedisCache]
         public async Task<ActionResult<BasketDto>> GetBasket(string basketId)
         {
             var basket = await _basketService.GetBasketAsync(basketId);
@@ -43,6 +45,13 @@ namespace Ecommerce.Presentation.Controllers
         {
             var isDeleted = await _basketService.DeleteBasketAsync(basketId);
             return Ok(isDeleted);
+        }
+
+        [HttpPut]
+        public async Task<ActionResult<BasketDto>> UpdateBasket(BasketDto basket)
+        {
+            var updatedBasket = await _basketService.UpdateBasketAsync(basket);
+            return Ok(updatedBasket);
         }
     }
 }

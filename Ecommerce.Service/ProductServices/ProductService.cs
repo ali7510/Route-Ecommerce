@@ -43,7 +43,7 @@ namespace Ecommerce.Service.ProductServices
 
         public async Task<ProductDto?> GetProductByIdAsync(int id)
         {
-            var specification = new ProductWithBrandAndTypeSpecification();
+            var specification = new ProductWithBrandAndTypeSpecification(default!);
             var product = await _unitOfWork.GetRepository<Product, int>().GetByIdAsync(id, specification);
             if (product == null)
             {

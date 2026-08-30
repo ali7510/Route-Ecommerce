@@ -17,7 +17,7 @@ namespace Ecommerce.Shared.DTOs.ProductDTOs
         private int _pageIndex = 1;
         private const int DefaultPageSize = 5;
         private const int MaxPageSize = 10;
-        private int _pageSize;
+        private int _pageSize = 5;
         public int PageSize
         {
             get { return _pageSize; }

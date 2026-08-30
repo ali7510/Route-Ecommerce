@@ -7,6 +7,7 @@ using Ecommerce.Persistence.Repositories;
 using Ecommerce.Service;
 using Ecommerce.Service.MappingProfiles;
 using Ecommerce.Service.ProductServices;
+using Ecommerce.ServiceAbstraction;
 using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
 using EcommerceWeb.Extensions;
 using Microsoft.EntityFrameworkCore;
@@ -49,6 +50,7 @@ namespace EcommerceWeb
             //    return new MongoClient(connectionString);
             //});
             builder.Services.AddSingleton<MongoContext>();
+            builder.Services.AddMemoryCache();
 
             // MongoDB Database
             builder.Services.AddScoped<IMongoDatabase>(serviceProvider =>
@@ -68,6 +70,8 @@ namespace EcommerceWeb
             builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddScoped<IBasketRepository, BasketRepository>();
             builder.Services.AddScoped<IBasketService, BasketService>();
+            builder.Services.AddScoped<ICacheRepository, CacheRepository>();
+            builder.Services.AddScoped<ICacheService, CacheService>();
             //builder.Services.AddTransient<ProductPictureUrlResolver>();
             //builder.Services.AddAutoMapper(x=>x.AddProfile<ProductProfile>());
             builder.Services.AddAutoMapper(typeof(ServiceAssemblyReference).Assembly);

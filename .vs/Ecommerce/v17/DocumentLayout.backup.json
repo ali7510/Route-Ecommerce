@@ -3,64 +3,52 @@
   "WorkspaceRootPath": "D:\\.NET PROJECTS\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|d:\\.net projects\\ecommerce\\ecommerce.presentation\\attributes\\mongocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|solutionrelative:ecommerce.presentation\\attributes\\mongocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|d:\\.net projects\\ecommerce\\ecommerce.service\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|d:\\.net projects\\ecommerce\\ecommerce.shared\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|d:\\.net projects\\ecommerce\\ecommerce.service\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\specifications\\productwithbrandandtypespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|d:\\.net projects\\ecommerce\\ecommerce.domain\\entities\\basketmodule\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\basketmodule\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|d:\\.net projects\\ecommerce\\ecommerce.shared\\dtos\\productdtos\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\productdtos\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|d:\\.net projects\\ecommerce\\ecommerce.persistence\\nosqldbsettings\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|solutionrelative:ecommerce.persistence\\nosqldbsettings\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|d:\\.net projects\\ecommerce\\ecommerce.domain\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|d:\\.net projects\\ecommerce\\ecommerce.shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2822E1D3-CAA8-4765-B5BD-90A6DCCF1EA4}|Ecommerce.Shared\\Ecommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|d:\\.net projects\\ecommerce\\ecommerce.domain\\entities\\basketmodule\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\basketmodule\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|d:\\.net projects\\ecommerce\\ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|d:\\.net projects\\ecommerce\\ecommerce.service\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|d:\\.net projects\\ecommerce\\ecommerce.presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|solutionrelative:ecommerce.presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|d:\\.net projects\\ecommerce\\ecommerce.persistence\\nosqldbsettings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|solutionrelative:ecommerce.persistence\\nosqldbsettings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|d:\\.net projects\\ecommerce\\ecommerce.presentation\\attributes\\rediscacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|solutionrelative:ecommerce.presentation\\attributes\\rediscacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|d:\\.net projects\\ecommerce\\ecommerce.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|d:\\.net projects\\ecommerce\\ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF96C6D-049B-4A92-A92E-F2032B0CC063}|Ecommerce.Presentation\\Ecommerce.Presentation.csproj|solutionrelative:ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|d:\\.net projects\\ecommerce\\ecommerceweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|d:\\.net projects\\ecommerce\\ecommerce.service\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0495E7-6B83-480B-893C-21DDE32ECF4F}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\MappingProfiles\\BasketProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce.Service\\MappingProfiles\\BasketProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D254319-5AAC-4295-BB97-994877A6ED4B}|Ecommerce.ServiceAbstraction\\Ecommerce.ServiceAbstraction.csproj|d:\\.net projects\\ecommerce\\ecommerce.serviceabstraction\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D254319-5AAC-4295-BB97-994877A6ED4B}|Ecommerce.ServiceAbstraction\\Ecommerce.ServiceAbstraction.csproj|solutionrelative:ecommerce.serviceabstraction\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\ProductServices\\BasketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce.Service\\ProductServices\\BasketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|d:\\.net projects\\ecommerce\\ecommerce.persistence\\repositories\\cacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F34B60A-A84E-41EF-9014-976C2A8CFC3F}|Ecommerce.Persistence\\Ecommerce.Persistence.csproj|solutionrelative:ecommerce.persistence\\repositories\\cacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|d:\\.net projects\\ecommerce\\ecommerce.domain\\contracts\\icacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC8DA59-3E1B-4E0D-AB32-E51443913A16}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\contracts\\icacherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|d:\\.net projects\\ecommerce\\ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CE92AC-1D14-4F54-9C05-0C1B4D261463}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,184 +66,159 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\ProductDTOs\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Shared\\DTOs\\ProductDTOs\\ProductQueryParams.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\ProductDTOs\\ProductQueryParams.cs*",
+              "RelativeToolTip": "Ecommerce.Shared\\DTOs\\ProductDTOs\\ProductQueryParams.cs*",
+              "ViewState": "AgIAAA0AAAAwAAAAAAA3wBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:25:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\ProductServices\\ProductService.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAqZmZmZuY9wC0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:11:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWithBrandAndTypeSpecification.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs*",
+              "RelativeToolTip": "Ecommerce.Service\\Specifications\\ProductWithBrandAndTypeSpecification.cs*",
+              "ViewState": "AgIAABYAAABAcmZmZiYgwDoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:45:49.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MongoCacheAttribute.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Attributes\\MongoCacheAttribute.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Presentation\\Attributes\\MongoCacheAttribute.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Attributes\\MongoCacheAttribute.cs",
-              "RelativeToolTip": "Ecommerce.Presentation\\Attributes\\MongoCacheAttribute.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAABAAAAAAAAAA==",
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAACwAAAAAmpmZmZkBwDAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:44:31.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Presentation\\Controllers\\BasketController.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Ecommerce.Presentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAA8AAADAmpmZmZkRwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:31:19.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAADwMjMzMzMrwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:29:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\CacheService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\CacheService.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\CacheService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\CacheService.cs",
+              "ViewState": "AgIAAA4AAAAwy8zMzMw5wBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T19:55:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.ServiceAbstraction\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.ServiceAbstraction\\ICacheService.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.ServiceAbstraction\\ICacheService.cs",
+              "RelativeToolTip": "Ecommerce.ServiceAbstraction\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T19:52:48.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CacheRepository.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\Repositories\\CacheRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Persistence\\Repositories\\CacheRepository.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\Repositories\\CacheRepository.cs",
+              "RelativeToolTip": "Ecommerce.Persistence\\Repositories\\CacheRepository.cs",
+              "ViewState": "AgIAABkAAACAODMzMzMbwCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T15:22:34.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICacheRepository.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\ICacheRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Contracts\\ICacheRepository.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\ICacheRepository.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Contracts\\ICacheRepository.cs",
+              "ViewState": "AgIAAAQAAACAMTMzMzMLwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T15:18:39.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisCacheAttribute.cs",
+              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Attributes\\RedisCacheAttribute.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Presentation\\Attributes\\RedisCacheAttribute.cs",
+              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Attributes\\RedisCacheAttribute.cs",
+              "RelativeToolTip": "Ecommerce.Presentation\\Attributes\\RedisCacheAttribute.cs",
+              "ViewState": "AgIAAB8AAAAAwczMzMwEwCkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T00:38:01.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Presentation\\Controllers\\BasketController.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Presentation\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Ecommerce.Presentation\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAABUPSwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T23:33:49.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BasketProfile.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\MappingProfiles\\BasketProfile.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Service\\MappingProfiles\\BasketProfile.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\MappingProfiles\\BasketProfile.cs",
-              "RelativeToolTip": "Ecommerce.Service\\MappingProfiles\\BasketProfile.cs",
-              "ViewState": "AgIAAAwAAAAQMjMzMzMnwBIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:46:40.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\ProductServices\\BasketService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Service\\ProductServices\\BasketService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Service\\ProductServices\\BasketService.cs",
-              "RelativeToolTip": "Ecommerce.Service\\ProductServices\\BasketService.cs",
-              "ViewState": "AgIAAC8AAAAANjMzMzMTwEEAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:45:30.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IBasketService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs",
-              "RelativeToolTip": "Ecommerce.ServiceAbstraction\\ProductServicesAbstraction\\IBasketService.cs",
-              "ViewState": "AgIAAAYAAACAZGZmZmb2vw4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:43:54.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasketItemDto.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\BasketDtos\\BasketItemDto.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Shared\\DTOs\\BasketDtos\\BasketItemDto.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\BasketDtos\\BasketItemDto.cs",
-              "RelativeToolTip": "Ecommerce.Shared\\DTOs\\BasketDtos\\BasketItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:41:09.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketDto.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\BasketDtos\\BasketDto.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Shared\\DTOs\\BasketDtos\\BasketDto.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Shared\\DTOs\\BasketDtos\\BasketDto.cs",
-              "RelativeToolTip": "Ecommerce.Shared\\DTOs\\BasketDtos\\BasketDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:37:24.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerBasket.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Entities\\BasketModule\\CustomerBasket.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\BasketModule\\CustomerBasket.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Entities\\BasketModule\\CustomerBasket.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Entities\\BasketModule\\CustomerBasket.cs",
-              "ViewState": "AgIAAAcAAACg//////8vwA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:32:23.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MongoContext.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\NoSqlDbSettings\\MongoContext.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Persistence\\NoSqlDbSettings\\MongoContext.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\NoSqlDbSettings\\MongoContext.cs",
-              "RelativeToolTip": "Ecommerce.Persistence\\NoSqlDbSettings\\MongoContext.cs",
-              "ViewState": "AgIAAAgAAAAAzMzMzMwiwA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T19:11:31.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Contracts\\IBasketRepository.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\IBasketRepository.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Contracts\\IBasketRepository.cs",
-              "ViewState": "AgIAAAYAAAAAMDMzMzPTvwkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T17:28:29.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\Program.cs",
               "RelativeDocumentMoniker": "EcommerceWeb\\Program.cs",
               "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\Program.cs",
               "RelativeToolTip": "EcommerceWeb\\Program.cs",
-              "ViewState": "AgIAAA4AAACAZmZmZuYUwCoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAACAAAAAAAAQwEcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T17:22:05.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Contracts\\IGenericRepository.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Contracts\\IGenericRepository.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Contracts\\IGenericRepository.cs",
-              "ViewState": "AgIAAAgAAABALzMzMzMbwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T17:27:06.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\NoSqlDbSettings\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Persistence\\NoSqlDbSettings\\MongoDbSettings.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Persistence\\NoSqlDbSettings\\MongoDbSettings.cs",
-              "RelativeToolTip": "Ecommerce.Persistence\\NoSqlDbSettings\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAMAAABAMzMzMzMbwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T17:21:25.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "EcommerceWeb\\appsettings.Development.json",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\EcommerceWeb\\appsettings.Development.json",
-              "RelativeToolTip": "EcommerceWeb\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-27T17:19:38.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Entities\\BasketModule\\BasketItem.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Entities\\BasketModule\\BasketItem.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\Ecommerce\\Ecommerce.Domain\\Entities\\BasketModule\\BasketItem.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Entities\\BasketModule\\BasketItem.cs",
-              "ViewState": "AgIAAAcAAAAAYWZmZmYGwA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T15:33:33.492Z"
+              "WhenOpened": "2026-08-27T17:22:05.377Z",
+              "EditorCaption": ""
             }
           ]
         }

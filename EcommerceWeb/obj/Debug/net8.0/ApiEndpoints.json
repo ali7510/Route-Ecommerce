@@ -53,6 +53,32 @@
   },
   {
     "ContainingType": "Ecommerce.Presentation.Controllers.BasketController",
+    "Method": "UpdateBasket",
+    "RelativePath": "api/Basket",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basket",
+        "Type": "Ecommerce.Shared.DTOs.BasketDtos.BasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ecommerce.Shared.DTOs.BasketDtos.BasketDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ecommerce.Presentation.Controllers.BasketController",
     "Method": "DeleteBasket",
     "RelativePath": "api/Basket/{basketId}",
     "HttpMethod": "DELETE",
