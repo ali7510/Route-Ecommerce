@@ -16,5 +16,12 @@ namespace Ecommerce.Domain.Entities.BasketModule
         public ICollection<BasketItem> BasketItems { get; set; } = [];
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime ExpireAt { get; set; }
+
+        #region Payment related Properties
+        public int? DeliveryMethodId { get; set; }
+        public string? PaymentIntentId { get; set; }
+        public string? ClientSecret { get; set; }
+        public decimal? ShippingCost { get; set; }
+        #endregion
     }
 }

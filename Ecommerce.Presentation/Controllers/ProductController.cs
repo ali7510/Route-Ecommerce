@@ -1,6 +1,7 @@
 ﻿using Ecommerce.Presentation.Attributes;
 using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
 using Ecommerce.Shared.DTOs.ProductDTOs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,7 @@ namespace Ecommerce.Presentation.Controllers
 
         [HttpGet]
         [RedisCache]
+        [Authorize] // handle authorization in program
         public async Task<ActionResult<IEnumerable<ProductDto>>> GetAllProductsAsync([FromQuery]ProductQueryParams? productParams)
         {
             var products = await _productService.GetAllProductsAsync(productParams);

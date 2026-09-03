@@ -15,5 +15,8 @@ namespace Ecommerce.ServiceAbstraction
 
         public Task<Result<UserDto>> LoginAsync(LoginDto loginDto);
         public Task<Result<UserDto>> RegisterAsync(RegisterDto registerDto);
+
+        public Task<bool> CheckEmailExistAsync(string email);
+        public Task<Result<UserDto>> GetUserByEmail(string email);
     }
 }

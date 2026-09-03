@@ -1,6 +1,7 @@
 ﻿using Ecommerce.Presentation.Attributes;
 using Ecommerce.ServiceAbstraction.ProductServicesAbstraction;
 using Ecommerce.Shared.DTOs.BasketDtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -22,6 +23,7 @@ namespace Ecommerce.Presentation.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         //[RedisCache]
         public async Task<ActionResult<BasketDto>> GetBasket(string basketId)
         {
@@ -34,6 +36,7 @@ namespace Ecommerce.Presentation.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<BasketDto>> CreateBasket(BasketDto basket)
         {
             var createdBasket = await _basketService.CreateBasketAsync(basket);
@@ -41,6 +44,7 @@ namespace Ecommerce.Presentation.Controllers
         }
 
         [HttpDelete("{basketId}")]
+        [Authorize]
         public async Task<ActionResult<bool>> DeleteBasket(string basketId)
         {
             var isDeleted = await _basketService.DeleteBasketAsync(basketId);
@@ -48,6 +52,7 @@ namespace Ecommerce.Presentation.Controllers
         }
 
         [HttpPut]
+        [Authorize]
         public async Task<ActionResult<BasketDto>> UpdateBasket(BasketDto basket)
         {
             var updatedBasket = await _basketService.UpdateBasketAsync(basket);
